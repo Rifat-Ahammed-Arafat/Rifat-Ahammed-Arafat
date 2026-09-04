@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am currently learning Ethical Hacking and improving my skills in cyber security field. I am a student studying in the department of CSE.
+Computer Science & Engineering Student | Aspiring Cybersecurity Analyst & Penetration Tester | Python & Web Tech Enthusiast
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/https%3A%2F%2Ftechwithgen.github.io%2Fprofile-studio%2F">
+  <a href="https://github.com/Rifat-Ahammed-Arafat">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Rifat" alt="Hello! I&#39;m Rifat" />
   </a>
 </p>
@@ -50,14 +50,14 @@ Aspiring Cybersecurity Analyst &amp; Penetration Tester
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=https%3A%2F%2Ftechwithgen.github.io%2Fprofile-studio%2F&show_icons=true&theme=default&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=https%3A%2F%2Ftechwithgen.github.io%2Fprofile-studio%2F&layout=compact&theme=default&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Rifat-Ahammed-Arafat&show_icons=true&theme=default&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Rifat-Ahammed-Arafat&layout=compact&theme=default&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=https%3A%2F%2Ftechwithgen.github.io%2Fprofile-studio%2F&bg_color=00000000&color=0891b2&line=0891b2&point=1f2328&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Rifat-Ahammed-Arafat&bg_color=00000000&color=0891b2&line=0891b2&point=1f2328&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -67,4 +67,4 @@ Aspiring Cybersecurity Analyst &amp; Penetration Tester
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/https%3A%2F%2Ftechwithgen.github.io%2Fprofile-studio%2F">https://techwithgen.github.io/profile-studio/</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/Rifat-Ahammed-Arafat">Rifat-Ahammed-Arafat</a></i></p>
